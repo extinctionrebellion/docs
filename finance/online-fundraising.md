@@ -8,7 +8,9 @@ description: >-
 
 ## Requirements
 
-To be able to collect money online, you first need a legal person. This could be an individual, an unincorporated partnership \(association of people\) or a legal entity \(typically a non profit or a limited liability company, aka LLC\).
+To be able to collect money online, you first need a legal person. This could be an individual, an unincorporated partnership \(aka unincorporated club or association of people\) or a legal entity \(typically a non profit or a limited liability company, aka LLC\).
+
+
 
  
 
