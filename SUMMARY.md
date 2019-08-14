@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Principles and values](principles-and-values.md)
 * [Create a local chapter](untitled.md)
 * [Create a working group](create-a-working-group.md)
 * [Create an affinity group](create-an-affinity-group.md)
