@@ -10,6 +10,7 @@
 
 * [Collecting money](finance/collecting-money.md)
 * [Online fundraising](finance/online-fundraising.md)
+* [Expense management](finance/expense-management.md)
 
 ## UK
 
