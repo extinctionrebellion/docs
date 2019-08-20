@@ -12,8 +12,11 @@
 * [Online fundraising](finance/online-fundraising.md)
 * [Expense management](finance/expense-management.md)
 
+## BE
+
+* [Setting up a local group](be/local-group-setup.md)
+
 ## UK
 
 * [Opening a bank account](uk/opening-a-bank-account.md)
 * [Raising money for legal costs](uk/fundraising-legal-costs.md)
-
