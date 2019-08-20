@@ -11,6 +11,7 @@
 * [Collecting money](finance/collecting-money.md)
 * [Online fundraising](finance/online-fundraising.md)
 * [Expense management](finance/expense-management.md)
+* [Untitled](finance/untitled.md)
 
 ## BE
 
@@ -20,3 +21,4 @@
 
 * [Opening a bank account](uk/opening-a-bank-account.md)
 * [Raising money for legal costs](uk/fundraising-legal-costs.md)
+

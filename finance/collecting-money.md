@@ -16,7 +16,7 @@ Hamish from XR Hammersmith & Fulham advanced the money to rent the room for the 
 
 Alternatively, you can also ask your regional or national XR group. For example, any new local chapter in Belgium can file an expense to the [national collective](https://opencollective.com/xr-belgium).
 
-When people come to the meeting, you can pass a donation box to ask people to participate. It's important to share why you are asking money. What will the money be used for? Typically at this stage the money will be used for renting a meeting space, for supplies and materials for the art group, posters and other stickers. If needed, funds collected could also be used to reimburse people who need financial support for their public transport. That could be particularly important if you create the first chapter in a given country or region and people need to come from afar. The cost of transportation shouldn't be a deterrent to be able to participate in meetings.
+When people come to the meeting, you can pass a donation box to ask people to participate. It's important to share why you are asking money. What will the money be used for? At the early stage the money will be used for renting a meeting space, for supplies and materials for the art group, posters and stickers. If needed, funds collected could also be used to reimburse people who need financial support for their public transport. That could be particularly important if you create the first chapter in a given country or region and people need to come from afar. The cost of transportation shouldn't be a deterrent to be able to participate in meetings.
 
 Note that to respect the values of XR, donations should be voluntary. No one should ever feel obliged or pressured to contribute. Because of that, it's important to pass the message that if people can afford it, please be generous as a way to pay it forward and to ensure that anyone can join the XR meetings.
 
@@ -38,7 +38,7 @@ But as your XR chapter grows things will become a bit more complicated. You will
 
  It's time to create a Finance Working Group.
 
-Chances are that are the beginning it will be just a group of one or two people. But at least you start delegating this task to someone else \(and you empower other people in the community to take responsibilities, which always feels super good 🤗\).
+Chances are that at the beginning it will be just a group of one or two people. But at least you start delegating this task to someone else \(and you empower other people in the community to take responsibilities, which always feels super good 🤗\).
 
 ### Mandate
 

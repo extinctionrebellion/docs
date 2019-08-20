@@ -1,7 +1,7 @@
 ---
 description: >-
   This book is meant to help Extinction Rebellion groups to create local
-  chapters and working groups
+  chapters and working groups.
 ---
 
 # Welcome
