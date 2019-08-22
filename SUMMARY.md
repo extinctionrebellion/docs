@@ -9,9 +9,9 @@
 ## Finance
 
 * [Collecting money](finance/collecting-money.md)
+* [Offline fundraising](finance/offline-fundraising.md)
 * [Online fundraising](finance/online-fundraising.md)
 * [Expense management](finance/expense-management.md)
-* [Untitled](finance/untitled.md)
 
 ## BE
 
