@@ -18,6 +18,7 @@
 * [Setting up a local group](be/local-group-setup.md)
 * [Using the Rebels Manager](be/using-the-rebels-manager.md)
 * [Sending emails](be/sending-emails.md)
+* [XRB Online Services Status](be/xrb-online-services-status.md)
 
 ## UK
 
