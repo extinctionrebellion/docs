@@ -17,7 +17,7 @@ Each local group has credentials to the Rebels Manager. This app allows them to 
 
 ## Add a signup form to your local group website
 
-Please first get in touch with it@extinctionrebellion.be and provide your website URL. We will need to allow signups from your website beforehand.
+Please first get in touch with [it@extinctionrebellion.be](mailto:it@extinctionrebellion.be) and provide your website URL. We will need to allow signups from your website beforehand.
 
 ```markup
 <form method="post" action="https://rebels.extinctionrebellion.be/rebels">
