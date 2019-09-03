@@ -2,7 +2,7 @@
 description: Are we online or are we not?
 ---
 
-# XRB Online Services Status
+# Online Services Status
 
 {% hint style="warning" %}
 Please get in touch with the [IT Support team on Mattermost](https://organise.earth/xrbelgium/channels/it-support) if any of our online services is down.

@@ -25,7 +25,7 @@ Other XR chapters already on Open Collective:
 
 ### Cost
 
-If you already have a bank account, you can use Open Collective for free. There is just a 5% commission on online donations made by credit card \(on top of the [Stripe fees](http://stripe.com/pricing)\). For donations made by bank transfer, there is no commission. You just need to record them on the platform manually.
+If you already have a bank account, you can use Open Collective for free. There is just a 5% commission if you decide to accept donations by credit card \(on top of the [Stripe fees](http://stripe.com/pricing)\). For donations made by bank transfer, there is no commission. You just need to record them on the platform manually.
 
 If you don’t have a bank account, Open Collective can offer fiscal sponsorship in the UK, in Europe and in the US for a 10% fee on all donations. This takes care of the accounting / book keeping.
 

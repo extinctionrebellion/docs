@@ -8,6 +8,7 @@
 
 ## Finance
 
+* [Expense policy](finance/expense-policy.md)
 * [Collecting money](finance/collecting-money.md)
 * [Offline fundraising](finance/offline-fundraising.md)
 * [Online fundraising](finance/online-fundraising.md)
@@ -15,7 +16,7 @@
 
 ## BE
 
-* [XRB Online Services Status](be/xrb-online-services-status.md)
+* [Online Services Status](be/xrb-online-services-status.md)
 * [Setting up a local group](be/local-group-setup.md)
 * [Using the Rebels Manager](be/using-the-rebels-manager.md)
 * [Sending emails](be/sending-emails.md)
