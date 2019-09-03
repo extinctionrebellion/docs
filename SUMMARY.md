@@ -8,11 +8,12 @@
 
 ## Finance
 
-* [Expense policy](finance/expense-policy.md)
 * [Collecting money](finance/collecting-money.md)
 * [Offline fundraising](finance/offline-fundraising.md)
 * [Online fundraising](finance/online-fundraising.md)
 * [Expense management](finance/expense-management.md)
+* [Expense policy](finance/expense-policy.md)
+* [Tools](finance/tools.md)
 
 ## BE
 

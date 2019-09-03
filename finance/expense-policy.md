@@ -37,6 +37,11 @@ If you use Open Collective, you can write a summary of your expense policy that 
 
 ### Examples
 
-* [XR Hackney Expense Policy](https://docs.google.com/document/d/1b7xF8gJ2KxzG6oNOPATfcMNFlEic6NcNqw308XKraF8/mobilebasic), [form to claim an expense](https://opencollective.com/xrhackney/expenses/new)
-* [XR Tower Hamlets Expense Policy](https://docs.google.com/document/d/1Zx5JWNgjfHyAuqw6DILdPfpXHJ_L0bTZLbMqPtPM89Y/edit), [form to claim an expense](https://form.jotformeu.com/91277648344365)
+* XR Hackney 
+  * [Expense Policy](https://docs.google.com/document/d/1b7xF8gJ2KxzG6oNOPATfcMNFlEic6NcNqw308XKraF8/mobilebasic) \(google doc\)
+  * [Submit expense form](https://opencollective.com/xrhackney/expenses/new) \(open collective\)
+  * [Public record of expenses](https://opencollective.com/xrhackney/expenses) \(open collective\)
+* XR Tower Hamlets
+  * [Expense Policy](https://docs.google.com/document/d/1Zx5JWNgjfHyAuqw6DILdPfpXHJ_L0bTZLbMqPtPM89Y/edit) \(google doc\)
+  * [Submit expense form](https://form.jotformeu.com/91277648344365) \(online form\)
 
