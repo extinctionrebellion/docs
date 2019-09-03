@@ -44,4 +44,5 @@ If you use Open Collective, you can write a summary of your expense policy that 
 * XR Tower Hamlets
   * [Expense Policy](https://docs.google.com/document/d/1Zx5JWNgjfHyAuqw6DILdPfpXHJ_L0bTZLbMqPtPM89Y/edit) \(google doc\)
   * [Submit expense form](https://form.jotformeu.com/91277648344365) \(online form\)
+  * [Public record of expenses](https://docs.google.com/spreadsheets/d/1mjOjGr8ZjCCJkGfLZ5lZU342KCbS105o1oCjsu4IdkU/edit#gid=0) \(google spreadsheet\)
 
