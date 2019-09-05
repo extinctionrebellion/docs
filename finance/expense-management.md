@@ -40,13 +40,15 @@ You can also use professional accounting software such as [Xero](Https://Xero.co
 
 They built a [custom form](https://form.jotformeu.com/91277648344365) using [JotForm](https://jotform.com) \(free for up to 100 submissions per month, then $15.83/month\). They then record them in this [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1mjOjGr8ZjCCJkGfLZ5lZU342KCbS105o1oCjsu4IdkU/edit#gid=0). Their expense policy is available as a [Google Doc](https://docs.google.com/document/d/1Zx5JWNgjfHyAuqw6DILdPfpXHJ_L0bTZLbMqPtPM89Y).
 
+![XR Tower Hamlets submit expense form and public record](../.gitbook/assets/588eb02b-0ad1-4deb-ab25-ead01d0061ad.jpeg)
+
 ### XR Belgium
 
 XR Belgium is using [Open Collective](tools.md#open-collective) \([https://opencollective.com/XR-Belgium](https://opencollective.com/XR-Belgium)\).
 
-Every time anyone needs money, they simply submit the expense or the invoice of the vendor to the collective. An email is automatically sent to the different admins of the collective that can then easily approve or comment on the expense to ask for more information. All expenses and their status are publicly published online \([https://opencollective.com/XR-belgium/expenses](https://opencollective.com/XR-belgium/expenses)\). Note that the actual receipts and invoices are only visible to the admins as they may contain personal data.
+Every time anyone needs money, they simply submit the expense or the invoice of the vendor to the collective. An email is automatically sent to the different admins of the collective that can then easily approve or comment on the expense to ask for more information. All expenses and their status are automatically published online \([https://opencollective.com/XR-belgium/expenses](https://opencollective.com/XR-belgium/expenses)\). Note that the actual receipts and invoices are only visible to the admins as they may contain personal data.
 
-![XR Belgium&#x2019;s public record of expenses on Open Collective](https://d.pr/free/i/6f2wVv+)
+![XR Belgium&#x2019;s expense form and public record on Open Collective](../.gitbook/assets/3c6adb1a-ef26-41de-8392-a1b5caf6439b.jpeg)
 
 All the transactions can also be exported in CSV and programmatically via their [API](https://docs.opencollective.com/help/developers/api).
 
