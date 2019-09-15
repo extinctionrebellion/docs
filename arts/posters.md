@@ -10,5 +10,8 @@ description: >-
 
 ## Links
 
+* [XR Design Programme v1.1](https://drive.google.com/file/d/1iIh0aGFKnfE2RJ02ITvwEwgZWD2oMnY0/view?usp=drivesdk)
 * [XR Belgium Posters](https://drive.google.com/drive/folders/1PnMtkXLhQ_UacG1JaBJeQ6jVbbanNAgt)
+
+
 
