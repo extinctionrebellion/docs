@@ -31,4 +31,9 @@
 ## Arts
 
 * [Flags](arts/flags.md)
+* [Posters](arts/posters.md)
+
+## Action & Strategy
+
+* [Types of actions \(WIP\)](action-and-strategy/types-of-actions-wip.md)
 

@@ -18,5 +18,9 @@ All are welcome who want to adhere to [our principles and values](https://github
 
 ## What does it mean to create a local chapter?
 
+\(contributions needed\)
+
 ## What's the time commitment required?
+
+\(contributions needed\)
 
