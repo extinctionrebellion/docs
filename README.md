@@ -23,7 +23,3 @@ Please join us. Our goal is to hand it over as soon as possible to the community
 
 If you have created a local chapter or a working group, please share your experience and contribute to this book. It's interesting to hear about many different stories and the different ways rebels have organized themselves. You can [edit any of those pages on Github](https://github.com/extinctionrebellion/docs). If you need assistance, send an email to [info@xr-docs.opencollective.com](mailto:info@xr-docs.opencollective.com).
 
-
-
-
-

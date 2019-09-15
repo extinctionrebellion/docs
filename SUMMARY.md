@@ -17,6 +17,7 @@
 
 ## BE
 
+* [Directory](be/directory.md)
 * [Online Services Status](be/xrb-online-services-status.md)
 * [Setting up a local group](be/local-group-setup.md)
 * [Using the Rebels Manager](be/using-the-rebels-manager.md)

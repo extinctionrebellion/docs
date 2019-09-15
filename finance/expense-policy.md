@@ -6,11 +6,11 @@ description: >-
 
 # Expense policy
 
-### Why an expense policy?
+## Why an expense policy?
 
 It's important to have a public expense policy so that rebels can know in advance what can be expensed. Also, you need a public document that you can go back to to justify why you are accepting or refusing a given expense. This makes sure that decisions are fair for everyone.
 
-### What should be in an expense policy?
+## What should be in an expense policy?
 
 * General philosophy
   * What are we trying to achieve with the money?
@@ -27,15 +27,15 @@ It's important to have a public expense policy so that rebels can know in advanc
   * Is there an amount above which the decision process should be different?
   * Is there a pre-defined budget per working group?
 
-### Where to publish it?
+## Where to publish it?
 
-Wherever the rebels might look for information about your finance; on your website on the page where you ask for donations, in your vade mecum \(aka onboarding handbook\), on basecamp in the documents related to your finance working group, etc. 
+Wherever the rebels might look for information about your finance; on your website on the page where you ask for donations, in your vade mecum \(aka onboarding handbook\), on basecamp in the documents related to your finance working group, etc.
 
 If you use Open Collective, you can write a summary of your expense policy that will show up right above the form to submit an expense \(and you can add a link to the more complete expense policy if it's a long one\).
 
 ![Submit expense form on Open Collective](../.gitbook/assets/screen-shot-2019-09-03-at-5.39.22-pm.png)
 
-### Examples
+## Examples
 
 * XR Hackney 
   * [Expense Policy](https://docs.google.com/document/d/1b7xF8gJ2KxzG6oNOPATfcMNFlEic6NcNqw308XKraF8/mobilebasic) \(google doc\)

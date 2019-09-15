@@ -32,7 +32,7 @@ The easiest and most straightforward way is to create a shared Google Spreadshee
 
 Alternatively, you can create an [Open Collective](tools.md#open-collective) for your XR group. It will give you an url that you can share with your community to submit expenses \(with a picture of the receipt\) and a simple approval process. See for example [XR Hackney’s public record of expenses](https://opencollective.com/xrhackney/expenses) or [XR Belgium’s one](https://opencollective.com/xr-belgium/expenses).
 
-You can also use professional accounting software such as [Xero](Https://Xero.com) or [QuickBooks](https://quickbooks.intuit.com/). Note that those software have been engineered for private companies. You will have to export the data regularly and publish it in a user friendly format to make it accessible to people. 
+You can also use professional accounting software such as [Xero](../) or [QuickBooks](https://quickbooks.intuit.com/). Note that those software have been engineered for private companies. You will have to export the data regularly and publish it in a user friendly format to make it accessible to people.
 
 ## Case studies
 

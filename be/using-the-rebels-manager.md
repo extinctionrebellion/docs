@@ -50,5 +50,3 @@ Please first get in touch with [it@extinctionrebellion.be](mailto:it@extinctionr
 * **As a user,** we strongly suggest you to provide feedback and suggest changes/new features on the [\#rebels-manager](https://organise.earth/xrbelgium/channels/rebels-manager) Mattermost channel
 * **As a developer,** feel free to browse the [Github repository](https://github.com/extinctionrebellion/RebelsManager) and get involved into the development
 
-
-

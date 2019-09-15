@@ -36,21 +36,15 @@ Till now things were pretty easy. You only have to record at most once a week th
 
 But as your XR chapter grows things will become a bit more complicated. You will have more and more transactions to record and more importantly, you will have to start making decisions on where to allocate the money.
 
- It's time to create a Finance Working Group.
+It's time to create a Finance Working Group.
 
 Chances are that at the beginning it will be just a group of one or two people. But at least you start delegating this task to someone else \(and you empower other people in the community to take responsibilities, which always feels super good 🤗\).
 
 ### Mandate
 
-The initial mandate is very simple: keep track of all donations and expenses. But it can quickly be extended to taking care of collecting donations \(make sure there is a donation box at every meeting and event\), reach out to different institutions and wealthy individuals to ask for financial support, manage expenses, etc. It's really up to your group to define the mandate. 
+The initial mandate is very simple: keep track of all donations and expenses. But it can quickly be extended to taking care of collecting donations \(make sure there is a donation box at every meeting and event\), reach out to different institutions and wealthy individuals to ask for financial support, manage expenses, etc. It's really up to your group to define the mandate.
 
 {% hint style="info" %}
 It's always a good idea to keep mandates as short and as simple as possible. You don't want to tell a working group what to do nor how to do it \(as long as they respect the 10 principles of XR\). The primary goal is to make sure that other working groups know what their general mandate is. As the working group grows, a broad mandate will enable them to split into sub working groups.
 {% endhint %}
-
-
-
-
-
-
 

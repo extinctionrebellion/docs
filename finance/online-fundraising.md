@@ -14,7 +14,7 @@ Alternatively, you can also ask an existing legal entity to act as your Fiscal S
 
 ## Crowdfunding platforms
 
-We are only listing here international platforms. If you have platforms to recommend that only work in certain languages or regions, please create a section for the country or region. 
+We are only listing here international platforms. If you have platforms to recommend that only work in certain languages or regions, please create a section for the country or region.
 
 ### Chuffed
 
@@ -38,7 +38,7 @@ We are only listing here international platforms. If you have platforms to recom
   * Belgium: [XR Belgium](https://opencollective.com/xr-belgium), [XR Namur](https://opencollective.com/xr-namur), [XR Antwerp](https://opencollective.com/xr-antwerp)
   * Spain: [XR Barcelona](https://opencollective.com/xr-barcelona)
 
-##  Documents
+## Documents
 
 * comparison of different online platforms with their respective pros and cons \([spreadsheet](https://docs.google.com/spreadsheets/d/1ZZnw7EW_bYqgbEzcERy47qOp3t12evFqSvw2upXITvg/edit#gid=1837090371)\)
 

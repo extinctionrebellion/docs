@@ -12,5 +12,3 @@ This is what Rosetta from XR Bristol had to say:
 
 XR Bristol has made this great document outlining the steps to create such bank [https://xrbristol.org.uk/bank-accounts/](https://xrbristol.org.uk/bank-accounts/)
 
-
-

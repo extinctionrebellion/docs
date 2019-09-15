@@ -14,7 +14,7 @@ All local groups and XR Belgium working groups have credentials to Mailtrain. Th
 
 ## Lists
 
-![](../.gitbook/assets/screenshot-2019-08-23-at-06.49.17%20%281%29.png)
+![](../.gitbook/assets/screenshot-2019-08-23-at-06.49.17-1.png)
 
 The _Rebels_ list is synchronized with the Rebels Manager.
 
@@ -32,7 +32,7 @@ You may create other lists \(eg. one for a specific working group\). In the futu
 
 This is useful to send test emails to yourself. Find your own subscription \(or add one\) in the Subscribers list, edit it and check the _Test user?_ box.
 
-![](../.gitbook/assets/screenshot-2019-08-23-at-07.01.29%20%281%29.png)
+![](../.gitbook/assets/screenshot-2019-08-23-at-07.01.29-1.png)
 
 Then click the _Save and leave_ button.
 
