@@ -15,6 +15,15 @@
 * [Expense policy](finance/expense-policy.md)
 * [Tools](finance/tools.md)
 
+## Action & Strategy
+
+* [Types of actions \(WIP\)](action-and-strategy/types-of-actions-wip.md)
+
+## Arts
+
+* [Flags](arts/flags.md)
+* [Posters](arts/posters.md)
+
 ## BE
 
 * [Directory](be/directory.md)
@@ -27,13 +36,4 @@
 
 * [Opening a bank account](uk/opening-a-bank-account.md)
 * [Raising money for legal costs](uk/fundraising-legal-costs.md)
-
-## Arts
-
-* [Flags](arts/flags.md)
-* [Posters](arts/posters.md)
-
-## Action & Strategy
-
-* [Types of actions \(WIP\)](action-and-strategy/types-of-actions-wip.md)
 
