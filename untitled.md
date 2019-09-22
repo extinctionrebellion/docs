@@ -16,11 +16,7 @@ Every group operates autonomously and connects with other local, national or int
 
 All are welcome who want to adhere to [our principles and values](https://github.com/extinctionrebellion/extinctionrebellion/blob/master/principles.md).
 
-## What does it mean to create a local chapter?
+## Links
 
-\(contributions needed\)
-
-## What's the time commitment required?
-
-\(contributions needed\)
+* [How to start a local group](https://rebellion.earth/wp-content/uploads/2019/04/How-to-start-a-local-Extinction-Rebellion-group.pdf) \(PDF\)
 

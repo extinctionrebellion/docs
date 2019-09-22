@@ -16,7 +16,7 @@ description: >-
 | Public drive | [https://drive.extinctionrebellion.be](https://drive.extinctionrebellion.be/) |
 | Map of all Working Groups | [https://sos.extinctionrebellion.be](https://sos.extinctionrebellion.be/) |
 | Forum | [https://base.extinctionrebellion.be](https://base.extinctionrebellion.be/) |
-| Finance | [https://opencollective.com/XR-Belgium](https://opencollective.com/XR-Belgium) |
+| Finance | [https://finance.extinctionrebellion.be](https://opencollective.com/XR-Belgium) |
 
 
 
