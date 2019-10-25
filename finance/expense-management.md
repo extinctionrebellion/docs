@@ -28,7 +28,9 @@ In some regions, it might be advisable to not record the identity of the rebels 
 
 ### How to create a public record?
 
-The easiest and most straightforward way is to create a shared Google Spreadsheet. Here is XR Tower Hamlets‘s [public record of expenses](https://docs.google.com/spreadsheets/d/1mjOjGr8ZjCCJkGfLZ5lZU342KCbS105o1oCjsu4IdkU/edit#gid=0).
+The easiest and most straightforward way is to create a shared Google Spreadsheet. Here is a [generic template](https://docs.google.com/spreadsheets/d/1Pilm9pFgT1tHqDCs-9mUN0v71baHEgUPHDEwvjuzKbI/edit#gid=669420794) that we recommend but feel free to modify it or make your own.
+
+![Easy to use template to keep track of your expenses in a public and transparent way](../.gitbook/assets/screen-shot-2019-10-25-at-9.19.32-am.png)
 
 Alternatively, you can create an [Open Collective](tools.md#open-collective) for your XR group. It will give you an url that you can share with your community to submit expenses \(with a picture of the receipt\) and a simple approval process. See for example [XR Hackney’s public record of expenses](https://opencollective.com/xrhackney/expenses) or [XR Belgium’s one](https://opencollective.com/xr-belgium/expenses).
 
@@ -51,4 +53,14 @@ Every time anyone needs money, they simply submit the expense or the invoice of 
 ![XR Belgium&#x2019;s expense form and public record on Open Collective](../.gitbook/assets/3c6adb1a-ef26-41de-8392-a1b5caf6439b.jpeg)
 
 All the transactions can also be exported in CSV and programmatically via their [API](https://docs.opencollective.com/help/developers/api).
+
+### XR UK
+
+![XR UK&apos;s public record of transactions](../.gitbook/assets/screen-shot-2019-10-25-at-9.31.11-am.png)
+
+* [Public record of transactions](https://docs.google.com/spreadsheets/d/1G641513ojN0wKtUaGu2JTRLssn-SzT7NFSwHRB1VyX0/edit#gid=1196325269) \(spreadsheet\)
+* [Donations Policy](https://docs.google.com/document/d/1lUCDDU46K_qzyHBY1rEoutIA4xV8GW1LehqZ_tqWaDY/edit) \(doc\)
+* [Funding and Expenditure](https://docs.google.com/document/d/1uECIlfoDe2VsCUzNccv2adcSzR8BmU3pnz0RTFpE418/edit) \(doc\)
+* [Expense Policy](https://docs.google.com/document/d/1sTZgHKFJXsWUBdc76MSJy32_sHdASpgHH0oib0bRyqU/edit) \(doc\)
+* [Finance General Report of Compassionate Revolution Ltd](https://docs.google.com/spreadsheets/d/1z5nqTFgVdoK4QB7_pnTkxOi8B5Dd-XWu3D5ifitAHR8/edit#gid=523864146) \(fiscal sponsor\) \(spreadsheet\)
 
