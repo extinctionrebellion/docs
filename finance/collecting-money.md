@@ -48,3 +48,15 @@ The initial mandate is very simple: keep track of all donations and expenses. Bu
 It's always a good idea to keep mandates as short and as simple as possible. You don't want to tell a working group what to do nor how to do it \(as long as they respect the 10 principles of XR\). The primary goal is to make sure that other working groups know what their general mandate is. As the working group grows, a broad mandate will enable them to split into sub working groups.
 {% endhint %}
 
+### Defining policies
+
+One of the roles of the Finance Working Group \(or circle\) is to define the different policies: who can donate money? Who can file expenses? What should be the decision making process? What should be the reporting/transparency policy? Have a look at the "[Expense Policy](expense-policy.md)" section for more information on this topic.
+
+### Fundraising
+
+How to raise money for your local chapter? There are many ways that come down to two main ways: [offline fundraising](offline-fundraising.md) \(fundraising opportunities in the real world\) and [online fundraising](online-fundraising.md).
+
+### Managing expenses
+
+How to put in place an easy and transparent process to enable rebels to get reimbursed for their various expenses or to directly pay for something that you need? See the "[Expense Management](expense-management.md)" section.
+

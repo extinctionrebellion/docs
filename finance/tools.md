@@ -34,9 +34,11 @@ XR chapters using Open Collective:
 
 If you already have a bank account, you can use Open Collective for free. There is just a 5% commission if you decide to accept donations by credit card \(on top of the [Stripe fees](http://stripe.com/pricing)\). For donations made by bank transfer, there is no commission. You just need to record them on the platform manually.
 
-If you don’t have a bank account, Open Collective can offer fiscal sponsorship in the [UK](https://opencollective.com/uk), in [Europe](https://opencollective.com/europe) and in the [US](https://opencollective.com/foundation) for a 10% fee on all donations. This takes care of the accounting / book keeping.
+If you don’t have a bank account, rebels from Belgium have started a non profit entity "All For Climate ASBL" that can act as a fiscal host for free \(in the eurozone\). Go here to apply to create a collective hosted on that non profit: [https://opencollective.com/allforclimate/apply](https://opencollective.com/allforclimate/apply) 
 
-If you've already created a non profit entity in your country, you can also use it to be a fiscal sponsor for other local groups in your region \(and save them the pain and the cost of creating and maintaining a legal entity\).
+Open Collective can also directly offer fiscal sponsorship in the [UK](https://opencollective.com/uk), in [Europe](https://opencollective.com/europe) and in the [US](https://opencollective.com/foundation) for a 10% fee on all donations. This takes care of the accounting / book keeping.
+
+If you've already created a non profit entity in your country, you can use it to be a fiscal host for other local groups in your region \(and save them the pain and the cost of creating and maintaining a legal entity\).
 
 Given that the platform is [open source](https://github.com/opencollective/opencollective), you could also fork the code and install it on your own server, in which case it’s entirely free \(but a lot of work\).
 

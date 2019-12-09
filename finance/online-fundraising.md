@@ -31,7 +31,6 @@ We are only listing here international platforms. If you have platforms to recom
 ### Open Collective
 
 * 5% + credit card fees \([pricing page](http://opencollective.com/pricing)\)
-* Possibility to use without a bank account for an additional 5%
 * Open source \([github](https://github.com/opencollective/opencollective)\)
 * Used by \([complete list](https://opencollective.com/extinctionrebellion)\)
   * UK: [XR Hackney](https://opencollective.com/xrhackney), [XR Waltham Forest](https://opencollective.com/extinction-rebellion-waltham-forest1), [XR Camden](https://opencollective.com/xr-camden)
