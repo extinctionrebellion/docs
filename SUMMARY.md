@@ -9,6 +9,7 @@
 ## Finance
 
 * [Collecting money](finance/collecting-money.md)
+* [Fiscal sponsorship](finance/fiscal-sponsorship.md)
 * [Offline fundraising](finance/offline-fundraising.md)
 * [Online fundraising](finance/online-fundraising.md)
 * [Expense management](finance/expense-management.md)
