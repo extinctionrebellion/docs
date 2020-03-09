@@ -6,6 +6,10 @@
 * [Create a working group](create-a-working-group.md)
 * [Create an affinity group](create-an-affinity-group.md)
 
+## EU Rebellion
+
+* [About](eu-rebellion/eu-rebellion-about.md)
+
 ## Finance
 
 * [Collecting money](finance/collecting-money.md)

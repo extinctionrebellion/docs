@@ -21,5 +21,7 @@ Please join us. Our goal is to hand it over as soon as possible to the community
 
 ## Contribute
 
+If you believe that XR needs more documentation, please consider supporting our working group so that we can dedicate more resources to it. [Make a donation or become a backer](https://opencollective.com/xr-docs).
+
 If you have created a local chapter or a working group, please share your experience and contribute to this book. It's interesting to hear about many different stories and the different ways rebels have organized themselves. You can [edit any of those pages on Github](https://github.com/extinctionrebellion/docs). If you need assistance, send an email to [info@xr-docs.opencollective.com](mailto:info@xr-docs.opencollective.com).
 
